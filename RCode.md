@@ -8,7 +8,7 @@ Analysis of the survey about students interest on sustainable development relate
 #############      AND LOAD THE DATASETS      #########################
 ###########################################################################
 ### Charging the right directory and libraries #########################
-setwd("C:/Users/Victor/Desktop/Canada/Projet de recherche")
+setwd("")
 library(readxl)
 library(ggplot2)
 library(plotly)
